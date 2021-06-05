@@ -365,6 +365,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 et1.setText(Double.toString(f1));
                 pflag = 0;
+                //Completed
             }
           });
         }
